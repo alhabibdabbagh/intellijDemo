@@ -10,5 +10,8 @@ public class Greeting {
         String userName;
         String userNam2e;
 
+
+
+        int[] sayi =new int [10];
     }
 }
