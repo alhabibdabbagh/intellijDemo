@@ -8,7 +8,7 @@ public class Greeting {
         int No ;
         String Name;
         String userName;
-
+        String userNam2e;
 
     }
 }
