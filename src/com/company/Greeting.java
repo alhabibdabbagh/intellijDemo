@@ -7,6 +7,7 @@ public class Greeting {
     protected void ccar(){
         int No ;
         String Name;
+        String userName;
 
 
     }
