@@ -10,7 +10,7 @@ public class Greeting {
         String userName;
         String userNam2e;
 
-
+//dfcdcdc
 
         int[] sayi =new int [10];
     }
