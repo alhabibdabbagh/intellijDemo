@@ -7,11 +7,11 @@ public class Main {
     public static void main(String[] args) {
         Random random = new Random();
 
-     /*   boolean found =false;
+     /*   boolean found =false;dasdasddsasadasdas
         int item=2;
         int[][] myArray= new int [6][4];
         for(int i=0;i<myArray.length;i++){
-            for(int j=0;j<myArray[0].length;j++){
+            for(int j=0;j<myArray[0].length;j++){asdasdasdsadasdsad
                 myArray[i][j]=random.nextInt(20);
                // System.out.print(myArray[i][j]);
             }
