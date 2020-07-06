@@ -7,11 +7,11 @@ public class Main {
     public static void main(String[] args) {
         Random random = new Random();
 
-     /*   boolean found =false;dasdasddsasadasdas
+       boolean found =false;
         int item=2;
         int[][] myArray= new int [6][4];
         for(int i=0;i<myArray.length;i++){
-            for(int j=0;j<myArray[0].length;j++){asdasdasdsadasdsad
+            for(int j=0;j<myArray[0].length;j++){
                 myArray[i][j]=random.nextInt(20);
                // System.out.print(myArray[i][j]);
             }
@@ -35,9 +35,9 @@ public class Main {
             }
 
         }
-        if (found==false) System.out.println("bulunmadı");*/
+        if (found==false) System.out.println("bulunmadı");
 
-        int item=8;
+      /*  int item=8;
         int itemBas=8;
         boolean found =false;
         int [] array=new int [10];
@@ -53,6 +53,6 @@ public class Main {
 
             }
 
-        }
+        }*/
     }
 }
