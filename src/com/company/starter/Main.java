@@ -13,7 +13,7 @@ public class Main {
         for(int i=0;i<myArray.length;i++){
             for(int j=0;j<myArray[0].length;j++){
                 myArray[i][j]=random.nextInt(20);
-               // System.out.print(myArray[i][j]);
+               // System.out.print(myArray[i][j]);sadsad
             }
 
             System.out.println();
