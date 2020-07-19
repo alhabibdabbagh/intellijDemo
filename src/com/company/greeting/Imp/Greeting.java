@@ -22,7 +22,7 @@ public class Greeting implements IGreeting {
         String userName;
         String userNam2e;
 
-//dfcdcdc
+//dfcdcdczcsdcsadsaasdsadasdasdasd
 
         int[] sayi = new int[10];
     }
