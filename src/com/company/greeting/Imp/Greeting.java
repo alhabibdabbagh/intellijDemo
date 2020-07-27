@@ -22,6 +22,9 @@ public class Greeting implements IGreeting {
         String userName;
         String userNam2e;
 
+        String Name1;
+        String userName2;
+        String userNam2e3;
 //dfcdcdczcsdcsadsaasdsadasdasdasd
 
         int[] sayi = new int[10];
