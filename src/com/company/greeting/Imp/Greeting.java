@@ -22,6 +22,10 @@ public class Greeting implements IGreeting {
         String userName;
         String userNam2e;
 
+        boolean Name1;
+        boolean userName2;
+        boolean userNam2e4;
+
 //dfcdcdczcsdcsadsaasdsadasdasdasd
 
         int[] sayi = new int[10];
